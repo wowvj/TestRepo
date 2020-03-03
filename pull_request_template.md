@@ -1,7 +1,6 @@
-This is a new pull request template.
-
-
-This is the second block of text.
+# I hope this becomes a title
+#
+# I hope this becomes the body
 
 ## Checklist
 - [ ] Did you do X?
