@@ -1,5 +1,5 @@
 ## PR Description:
-<Add some useful notes here for the reviewers>
+Add some useful notes here for the reviewers
 
 
 ---
