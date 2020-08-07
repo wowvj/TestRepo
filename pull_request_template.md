@@ -1,8 +1,6 @@
 ## PR Description:
 Add some useful notes here for the reviewers
 
-
----
 ## Testing
  - [ ] Ran the full suite of tests
  - [ ] Ran partial suite of tests
