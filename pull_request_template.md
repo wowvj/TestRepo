@@ -1,8 +1,18 @@
-I am going to write a relatively small block for title. This is the title of the PR.
+## PR Description:
+<Add some useful notes here for the reviewers>
 
-This is the body of the PR. This contains a lot of text that goes into the body section of the PR description..
-This may work... let's try this...
 
-## Checklist
-- [ ] Did you do X?
-- [ ] Did you do Y?
+---
+### Testing
+ - [ ] Ran the full suite of tests
+ - [ ] Ran partial suite of tests
+ - [ ] Tests inapplicable
+
+## Considerations
+ - [ ] Did you consider updating the readme in https://www.myexample.com
+ - [ ] Did you format the commit message with this format `#<TP ID> Summarize changes in 50 chars or less`
+       (Example: #1234 Implemented cool feature)
+
+### Helpful links
+* https://www.google.com
+* https://www.yahoo.com
